@@ -16,6 +16,3 @@ array = []
   end
   array
 end
-# env ruby vs just ruby pertaining to the shebang
-
-# how to properly use Pry to test before or after? Our pry is being a bully
